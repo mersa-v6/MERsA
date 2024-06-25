@@ -1,5 +1,3 @@
-# Untitled
-
 # MERsA
 
 MERsA is a Simple Python tool designed to make it easy to discover subdomains of a given URL using `subfinder`, and then analyze their HTTP responses using `httpx`. It saves the results categorized by HTTP response codes into separate text files for easy analysis.
