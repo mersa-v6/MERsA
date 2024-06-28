@@ -2,8 +2,6 @@
 
 MERsA is a Simple Python tool designed to make it easy to discover subdomains of a given URL using `subfinder`, and then analyze their HTTP responses using `httpx`. It saves the results categorized by HTTP response codes into separate text files for easy analysis.
 ---
-![Untitled](example/photo.png)
-
 ## Features
 
 - **Subdomain Discovery**: Utilizes `subfinder` to fetch subdomains of a specified URL.
@@ -71,6 +69,8 @@ example.com/Response-404.txt.
 ```
 
 In this example, `15 subdomains` were discovered and categorized based on their HTTP responses.
+
+![Untitled](example/photo.png)
 
 ## Notes
 
